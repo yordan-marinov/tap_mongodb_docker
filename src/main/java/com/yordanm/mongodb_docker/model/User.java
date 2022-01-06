@@ -19,5 +19,4 @@ public class User {
     private final String lastName;
     private List<Address> addresses;
     private List<Transaction> transactions;
-
 }
